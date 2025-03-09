@@ -3,10 +3,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
   <img src="https://camo.githubusercontent.com/3306ff345695a211ef32b1e9a246b57a64b04abc0a531439bfa83c417372ee52/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34352f3132333630332f72656163742d6e61746976652e706e67" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" />
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" />
