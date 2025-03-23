@@ -21,13 +21,13 @@ One of my key projects is **DoNotello**, a Trello-inspired task management app b
 ---
 
 ### 🛠 **Tech Stack**
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS  
-- **Frontend:** React, Redux, Vue.js , Angular , Material-UI  
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, SCSS  
+- **Frontend:** React, Redux, Material-UI  
 - **Backend:** Node.js, Express.js
 - **API Handling:** RESTful APIs, Socket.io
-- **Databases:** MongoDB, SQL
+- **Databases:** MongoDB, SQL, NOSQL
 - **Deployment & Hosting:**  Render, Cloudinary
-- **Tools & DevOps:** Git, Vite, Postman, Google Cloud , AWS , NPM
+- **Tools & DevOps:** Git, Vite.js, Postman, Google Cloud , AWS , NPM
 - **Other Skills:** Responsive Web Design, Agile Methodologies, Code Optimization  
 
 ---
